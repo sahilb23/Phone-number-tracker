@@ -4,7 +4,7 @@
 
 - to use this program you need `python3` and `pip` to be installed in your system
 - run the command to install the required libraries `pip install -r requirements.txt`
-- run the `run.sh` file with bash command `sh run.bash`
+- run the `run.sh` file with bash command `sh run.sh`
 - enter a mobile number with `country code`
 
 ## Example mobile number with country code
