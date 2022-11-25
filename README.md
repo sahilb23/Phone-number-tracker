@@ -13,7 +13,7 @@
 
 - here `+91` is country code for india followed by `10 digit` mobile number
 
-## Used ![OpenCage](https://opencagedata.com/dashboard#geocoding) for the location
+## Used [OpenCage](https://opencagedata.com/dashboard#geocoding) for the location
 
 - generate a api key
 - create a `keys.py` file
