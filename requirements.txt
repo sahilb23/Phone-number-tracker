@@ -1,0 +1,5 @@
+# Required packages to run the script
+
+phonenumbers
+opencage
+folium
